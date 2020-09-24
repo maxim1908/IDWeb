@@ -1,0 +1,11 @@
+  Bash   00089b6 
+  C      cf7a83e 
+  C#     474e008 
+  CPP    d665a25 
+  Java   7831c06 
+  Pascal 124cedb 
+  Python e93c019 
+  R      02bb36a 
+  Ruby   6ab5c31 
+  jQuery dcb1893 
+* master 3ee45fa 
