@@ -1,1 +1,1 @@
-a fost creat pentru a testa ssh-ul
+a fost creat pentru a testa conectarea prin ssh
